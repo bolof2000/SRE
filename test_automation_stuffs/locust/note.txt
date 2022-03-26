@@ -1,0 +1,3 @@
+locust --config  master.conf
+locust --config worker.conf
+
